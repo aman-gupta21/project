@@ -8,7 +8,6 @@ import companyDashbord from './pages/CompanyDashboard';
 import StudentDashboard from './pages/studentDashboard';
 import ResumePredictor from './pages/ResumePredictor';
 
-
 function Main() {
   return (
     <Router>
@@ -19,7 +18,7 @@ function Main() {
         <Route path="/login" element={<Login />} />
         <Route path="/studentDashboard" element={<StudentDashboard />} />
         <Route path="/CompanyDashboard" element={<companyDashbord />} />
-        <Route path="/ResumePredictor" element={<ResumePredictor />} /> {/* New */}
+        <Route path="/ResumePredictor" element={<ResumePredictor />} />
       </Routes>
     </Router>
   );
