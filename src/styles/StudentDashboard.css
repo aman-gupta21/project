@@ -1,0 +1,222 @@
+div{
+    /* background-color: #000000; */
+}
+
+
+.dashboard {
+  min-height: 100vh;
+  background: #000000;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  border-radius: 10px;
+    background: #e4feb3;
+    text-decoration: none;
+    color: black;
+}
+.comp{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 8px 12px;
+    border-radius: 6px;
+        background: #e4feb3;
+}
+
+.card {
+  background: #f2fcdf;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  width: 76.5vw;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.profile-section {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.profile-avatar {
+  width: 15vw;
+  height: 10vw;
+  border-radius: 50%;
+  background: #f0f0f0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-inputs input {
+  width: 50vw;
+  padding: 6px;
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.file-buttons label {
+  margin-right: 8px;
+  padding: 4px 10px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #b2b2b2;
+}
+
+.small {
+  font-size: 12px;
+  color: #666;
+}
+
+.btn {
+  background: #4f46e5;
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.status-tracker h3 {
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.progress {
+  margin-bottom: 10px;
+}
+
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.progress-bar {
+  background: #eee;
+  border-radius: 6px;
+  height: 10px;
+}
+
+.progress-fill {
+  background: #4f46e5;
+  height: 10px;
+  border-radius: 6px;
+}
+
+.students-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.filters input,
+.filters select {
+  padding: 5px;
+  margin-left: 5px;
+}
+
+.student-card {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.student-info {
+  display: flex;
+  gap: 12px;
+}
+
+.student-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #eee;
+}
+
+.student-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.student-actions button {
+  padding: 4px 8px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+}
+
+.recommend-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.recommend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 12px;
+}
+
+.recommend-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.recommend-actions {
+  margin-top: 10px;
+}
+
+.recommend-actions button {
+  margin-right: 6px;
+  padding: 4px 8px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+}
+
+.recommend-actions .btn {
+  background: #4f46e5;
+  color: white;
+}

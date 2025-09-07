@@ -1,0 +1,141 @@
+/* Login.css */
+
+.login-container {
+  max-width: 420px;
+  margin: 4rem auto;
+  padding: 2.5rem 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(76, 102, 124, 0.15);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #3a3a3a;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.welcome-text {
+  text-align: center;
+  color: #2c7dbf;
+  font-weight: 700;
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
+}
+
+.sub-text {
+  text-align: center;
+  font-weight: 400;
+  color: #647387;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.demo-credentials-box {
+  background: #d9f0db;
+  border: 1px solid #a7cbaf;
+  border-radius: 8px;
+  padding: 1rem 1.4rem;
+  color: #2f6d40;
+  font-size: 0.9rem;
+  margin-bottom: 1.8rem;
+}
+
+.demo-credentials-box strong {
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.demo-credentials-box p {
+  margin: 0.25rem 0;
+}
+
+.demo-fill-btn {
+  margin-top: 1rem;
+  padding: 0.5rem 1.4rem;
+  width: 100%;
+  border-radius: 6px;
+  border: 1.8px solid #2c7dbf;
+  background: white;
+  color: black;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.demo-fill-btn:hover {
+  background: #2c7dbf;
+  color: white;
+  border-color: #2c7dbf;
+}
+
+.login-form label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-top: 0.9rem;
+  color: #333;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  border: 1.3px solid #c8c8c8;
+  font-size: 1rem;
+  color: #262626;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s ease;
+}
+
+.login-form input:focus {
+  border-color: #2c7dbf;
+}
+
+.login-btn {
+  width: 100%;
+  margin-top: 1.8rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  font-size: 1.15rem;
+  font-weight: 600;
+  background-color: #2c7dbf;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+  background-color: #1b62b0;
+}
+
+.login-message {
+  margin-top: 1rem;
+  font-weight: 600;
+  text-align: center;
+  color: #d93025; /* red for errors */
+}
+
+.register-text {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.register-link {
+  color: #2c7dbf;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.register-link:hover {
+  text-decoration: underline;
+}
