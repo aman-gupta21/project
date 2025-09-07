@@ -1,0 +1,47 @@
+{
+    "confidence_level": "93.42%",
+    "extracted_features": {
+        "detected_skills": [
+            "java",
+            "sql",
+            "javascript",
+            "react"
+        ],
+        "education": [],
+        "unique_words": 237,
+        "word_count": 375
+    },
+    "predicted_internship": "Blockchain",
+    "recommended_companies": [
+        {
+            "company": "TechMahindra",
+            "match_percent": 80.0,
+            "matched_skills": 4,
+            "total_skills": 5
+        },
+        {
+            "company": "Flipkart",
+            "match_percent": 80.0,
+            "matched_skills": 4,
+            "total_skills": 5
+        },
+        {
+            "company": "HP",
+            "match_percent": 60.0,
+            "matched_skills": 3,
+            "total_skills": 5
+        },
+        {
+            "company": "Mindtree",
+            "match_percent": 60.0,
+            "matched_skills": 3,
+            "total_skills": 5
+        },
+        {
+            "company": "Hexaware",
+            "match_percent": 60.0,
+            "matched_skills": 3,
+            "total_skills": 5
+        }
+    ]
+}

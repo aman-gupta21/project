@@ -1,0 +1,5 @@
+
+
+docker build -t internship-api .
+
+docker run -p 5000:5000 internship-api

@@ -1,0 +1,88 @@
+Company,Role,Skills,Location,Website
+PayPal,Data Engineer,"Python, SQL, Spark, Hadoop, AWS",Chennai,https://careers.paypal.com
+Uber,ML Engineer,"Python, Machine Learning, Deep Learning, NLP, Spark",Bangalore,https://www.uber.com/careers
+LinkedIn,Software Engineer,"Java, Scala, Kafka, Python, Distributed Systems",Bangalore,https://careers.linkedin.com
+Twitter,Backend Developer,"Java, Python, Scala, Kafka, SQL",Hyderabad,https://careers.twitter.com
+Snapchat,AI Engineer,"Python, Deep Learning, PyTorch, NLP, Computer Vision",Bangalore,https://careers.snap.com
+Spotify,Data Scientist,"Python, R, SQL, Machine Learning, Big Data",Remote,https://www.spotifyjobs.com
+Netflix,Software Engineer,"Java, Python, AWS, Distributed Systems",Bangalore,https://jobs.netflix.com
+Dropbox,Cloud Engineer,"Python, Go, AWS, Kubernetes, Docker",Remote,https://jobs.dropbox.com
+VMware,DevOps Engineer,"Python, Ansible, Kubernetes, AWS, Terraform",Pune,https://careers.vmware.com
+Cisco,Network Engineer,"Networking, Python, CCNA, Security, Cloud",Bangalore,https://jobs.cisco.com
+Siemens,Software Developer,"C++, Java, Embedded, IoT, Python",Gurgaon,https://jobs.siemens.com
+Samsung R&D,AI Engineer,"TensorFlow, Keras, Python, Deep Learning, NLP",Bangalore,https://research.samsung.com
+HP,Cloud Engineer,"AWS, Azure, Python, Java, SQL",Chennai,https://jobs.hp.com
+Dell,Data Scientist,"Python, SQL, Spark, Machine Learning, Cloud",Hyderabad,https://jobs.dell.com
+EY,AI Consultant,"Python, R, Machine Learning, Data Science, SQL",Mumbai,https://eyglobal.yello.co
+KPMG,Data Analyst,"Excel, Python, SQL, Power BI, Statistics",Bangalore,https://home.kpmg/xx/en/home/careers.html
+Deloitte,AI Engineer,"Python, Machine Learning, NLP, RPA, SQL",Hyderabad,https://jobs2.deloitte.com
+PwC,Data Engineer,"Python, SQL, Cloud, Spark, Hadoop",Kolkata,https://www.pwc.com/careers
+ZS Tech,Data Scientist,"Python, R, SQL, Statistics, ML",Pune,https://www.zs.com/careers
+TechMahindra,Software Engineer,"Java, Python, Cloud, AI, SQL",Noida,https://careers.techmahindra.com
+Mindtree,Full Stack Developer,"React, Node.js, Java, Python, SQL",Chennai,https://www.mindtree.com/careers
+Persistent,AI Engineer,"Python, Machine Learning, NLP, SQL",Bangalore,https://www.persistent.com/careers
+L&T Infotech,Data Engineer,"Python, SQL, Spark, Hadoop, ETL",Pune,https://www.lntinfotech.com/careers
+Mphasis,Cloud Engineer,"AWS, Azure, DevOps, Python, Java",Bangalore,https://careers.mphasis.com
+UST Global,Software Developer,"Java, Python, Angular, SQL",Chennai,https://www.ust.com/careers
+Birlasoft,Data Scientist,"Python, R, SQL, Machine Learning",Hyderabad,https://www.birlasoft.com/careers
+Hexaware,Software Engineer,"Java, .NET, Python, SQL, Cloud",Mumbai,https://hexaware.com/careers
+Zensar,Cloud Engineer,"AWS, Azure, Python, Java, Kubernetes",Pune,https://zensar.com/careers
+NIIT Technologies,AI Engineer,"Python, NLP, Machine Learning, SQL",Noida,https://niit-tech.com/careers
+SAS,Data Scientist,"SAS, Python, SQL, Statistics, Machine Learning",Bangalore,https://www.sas.com/en_us/careers.html
+Autodesk,Software Engineer,"C++, Python, Cloud, JavaScript",Pune,https://www.autodesk.com/careers
+Epic Games,Game Developer,"C++, Unreal Engine, Python, Graphics",Remote,https://www.epicgames.com/careers
+Unity Technologies,Game Developer,"C#, Unity, C++, Python",Bangalore,https://careers.unity.com
+Electronic Arts,Game Engineer,"C++, Python, Game Engines, AI",Hyderabad,https://www.ea.com/careers
+Razorpay,Backend Engineer,"Java, Python, Go, SQL, AWS",Bangalore,https://razorpay.com/careers
+Swiggy,Data Engineer,"Python, SQL, Spark, AWS, Big Data",Bangalore,https://careers.swiggy.com
+Zomato,Data Scientist,"Python, Machine Learning, NLP, SQL",Gurgaon,https://www.zomato.com/careers
+Ola,AI Engineer,"Python, Deep Learning, NLP, ML, Spark",Bangalore,https://careers.olacabs.com
+Flipkart,Software Engineer,"Java, Python, SQL, Cloud, React",Bangalore,https://www.flipkartcareers.com
+Paytm,Data Engineer,"Python, SQL, Spark, Cloud, Machine Learning",Noida,https://paytm.com/careers
+PhonePe,Data Scientist,"Python, SQL, TensorFlow, Spark, NLP",Bangalore,https://phonepe.com/careers
+BYJU’s,ML Engineer,"Python, Machine Learning, Deep Learning, NLP",Bangalore,https://byjus.com/careers
+TechCompany56,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company56.careers.com
+TechCompany57,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company57.careers.com
+TechCompany58,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company58.careers.com
+TechCompany59,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company59.careers.com
+TechCompany60,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company60.careers.com
+TechCompany61,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company61.careers.com
+TechCompany62,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company62.careers.com
+TechCompany63,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company63.careers.com
+TechCompany64,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company64.careers.com
+TechCompany65,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company65.careers.com
+TechCompany66,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company66.careers.com
+TechCompany67,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company67.careers.com
+TechCompany68,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company68.careers.com
+TechCompany69,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company69.careers.com
+TechCompany70,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company70.careers.com
+TechCompany71,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company71.careers.com
+TechCompany72,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company72.careers.com
+TechCompany73,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company73.careers.com
+TechCompany74,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company74.careers.com
+TechCompany75,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company75.careers.com
+TechCompany76,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company76.careers.com
+TechCompany77,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company77.careers.com
+TechCompany78,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company78.careers.com
+TechCompany79,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company79.careers.com
+TechCompany80,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company80.careers.com
+TechCompany81,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company81.careers.com
+TechCompany82,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company82.careers.com
+TechCompany83,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company83.careers.com
+TechCompany84,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company84.careers.com
+TechCompany85,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company85.careers.com
+TechCompany86,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company86.careers.com
+TechCompany87,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company87.careers.com
+TechCompany88,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company88.careers.com
+TechCompany89,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company89.careers.com
+TechCompany90,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company90.careers.com
+TechCompany91,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company91.careers.com
+TechCompany92,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company92.careers.com
+TechCompany93,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company93.careers.com
+TechCompany94,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company94.careers.com
+TechCompany95,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company95.careers.com
+TechCompany96,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company96.careers.com
+TechCompany97,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company97.careers.com
+TechCompany98,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company98.careers.com
+TechCompany99,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company99.careers.com
+TechCompany100,Software Engineer,"Python, Java, SQL, Cloud, ML",Bangalore,https://company100.careers.com

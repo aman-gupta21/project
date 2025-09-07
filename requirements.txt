@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+scikit-learn==1.7.1
+pdfplumber
+joblib
+flask_cors
